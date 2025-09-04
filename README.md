@@ -48,8 +48,6 @@ Supports both **Official Firmware** and **CFW**, including:
 ## More features  
 Exceeding your expectations with a wide range of powerful features.
 
-### Gallery  
-
 #### Routes  
 Explore and plan your routes with ease in our interactive map view. Discover new paths, set destinations, and optimize your driving experience.
 
