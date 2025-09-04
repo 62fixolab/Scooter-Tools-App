@@ -35,9 +35,7 @@ Adaptable components that look amazing on iPads, iPhones, and macOS.
 
 ---
 
-## Compatible with multiple firmwares
-
-### Compatibility  
+## Compatibility  
 Supports both **Official Firmware** and **CFW**, including:
 
 - **Official Firmwares**
