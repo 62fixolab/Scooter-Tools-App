@@ -12,7 +12,7 @@ Monitor the status of your scooter. Customize, optimize, and take your driving e
 
 ---
 
-### Features  
+## Features  
 Explore the advanced features that will make your experience unique.
 
 #### Monitoring  
