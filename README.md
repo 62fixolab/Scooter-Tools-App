@@ -65,4 +65,4 @@ Safely store your scooter data by exporting the complete database.
 
 ---
 
-© 2025 **FixoLab**. All rights reserved.
+© 2026 **FixoLab**. All rights reserved.
