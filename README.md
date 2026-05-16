@@ -8,7 +8,7 @@
 
 Monitor the status of your scooter. Customize, optimize, and take your driving experience to the next level.
 
-[![Scooter Tools App Screenshot](https://scootertools.app/assets/en-sketch-main.png)](https://scootertools.app)
+[![Scooter Tools App Screenshot](https://scootertools.app/assets/home/en/three-phones.png)](https://scootertools.app)
 
 ---
 
@@ -65,4 +65,4 @@ Safely store your scooter data by exporting the complete database.
 
 ---
 
-© 2025 **FixoLab**. All rights reserved.
+© 2026 **FixoLab**. All rights reserved.
