@@ -8,11 +8,12 @@
 
 Monitor the status of your scooter. Customize, optimize, and take your driving experience to the next level. The dashboard for Xiaomi and Ninebot scooters with official and custom firmware.
 
-<p>
-  <a href="https://apps.apple.com/us/app/scooter-tools/id6452079114">Download on the App Store</a> ·
-  <a href="https://play.google.com/store/apps/details?id=com.fixolab.scootertools">Get it on Google Play</a> ·
-  <a href="https://scootertools.app">scootertools.app</a>
+<p align="center">
+  <a href="https://apps.apple.com/us/app/scooter-tools/id6452079114"><img height="52" src="assets/app-store-badge.svg" alt="Download on the App Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.fixolab.scootertools"><img height="52" src="assets/google-play-badge.svg" alt="Get it on Google Play"></a>
 </p>
+
+<p align="center"><a href="https://scootertools.app">scootertools.app</a></p>
 
 [![Scooter Tools App Screenshot](Press%20Pack/home/en/three-phones.png)](https://scootertools.app)
 
